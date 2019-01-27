@@ -1,7 +1,6 @@
 
 <p align="center">
   <img alt="ecom-npp-web-app" src="https://user-images.githubusercontent.com/423755/28759078-4ca94672-754d-11e7-9fb3-1e2dcaea6492.png" width="308">
-
 </p>
 
 <p align="center">
